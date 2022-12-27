@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Access modifiers 2, Datetime\Access modifiers 2, Datetime\bin\Debug\netcoreapp3.1\Access modifiers 2, Datetime.exe
+C:\Users\User\source\repos\Access modifiers 2, Datetime\Access modifiers 2, Datetime\bin\Debug\netcoreapp3.1\Access modifiers 2, Datetime.deps.json
+C:\Users\User\source\repos\Access modifiers 2, Datetime\Access modifiers 2, Datetime\bin\Debug\netcoreapp3.1\Access modifiers 2, Datetime.runtimeconfig.json
+C:\Users\User\source\repos\Access modifiers 2, Datetime\Access modifiers 2, Datetime\bin\Debug\netcoreapp3.1\Access modifiers 2, Datetime.runtimeconfig.dev.json
+C:\Users\User\source\repos\Access modifiers 2, Datetime\Access modifiers 2, Datetime\bin\Debug\netcoreapp3.1\Access modifiers 2, Datetime.dll
+C:\Users\User\source\repos\Access modifiers 2, Datetime\Access modifiers 2, Datetime\bin\Debug\netcoreapp3.1\Access modifiers 2, Datetime.pdb
+C:\Users\User\source\repos\Access modifiers 2, Datetime\Access modifiers 2, Datetime\obj\Debug\netcoreapp3.1\Access modifiers 2, Datetime.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Access modifiers 2, Datetime\Access modifiers 2, Datetime\obj\Debug\netcoreapp3.1\Access modifiers 2, Datetime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Access modifiers 2, Datetime\Access modifiers 2, Datetime\obj\Debug\netcoreapp3.1\Access modifiers 2, Datetime.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Access modifiers 2, Datetime\Access modifiers 2, Datetime\obj\Debug\netcoreapp3.1\Access modifiers 2, Datetime.AssemblyInfo.cs
+C:\Users\User\source\repos\Access modifiers 2, Datetime\Access modifiers 2, Datetime\obj\Debug\netcoreapp3.1\Access modifiers 2, Datetime.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Access modifiers 2, Datetime\Access modifiers 2, Datetime\obj\Debug\netcoreapp3.1\Access modifiers 2, Datetime.dll
+C:\Users\User\source\repos\Access modifiers 2, Datetime\Access modifiers 2, Datetime\obj\Debug\netcoreapp3.1\Access modifiers 2, Datetime.pdb
+C:\Users\User\source\repos\Access modifiers 2, Datetime\Access modifiers 2, Datetime\obj\Debug\netcoreapp3.1\Access modifiers 2, Datetime.genruntimeconfig.cache
