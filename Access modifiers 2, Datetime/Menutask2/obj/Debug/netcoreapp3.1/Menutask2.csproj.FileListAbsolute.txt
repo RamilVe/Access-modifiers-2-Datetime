@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\Access modifiers 2, Datetime\Menutask2\obj\Debug\netcoreapp3.1\Menutask2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Access modifiers 2, Datetime\Menutask2\obj\Debug\netcoreapp3.1\Menutask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Access modifiers 2, Datetime\Menutask2\obj\Debug\netcoreapp3.1\Menutask2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Access modifiers 2, Datetime\Menutask2\obj\Debug\netcoreapp3.1\Menutask2.AssemblyInfo.cs
+C:\Users\User\source\repos\Access modifiers 2, Datetime\Menutask2\obj\Debug\netcoreapp3.1\Menutask2.csproj.CoreCompileInputs.cache

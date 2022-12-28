@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Access modifiers 2, Datetime", "Access modifiers 2, Datetime\Access modifiers 2, Datetime.csproj", "{703FF462-907A-40CE-8A85-253A2D166C92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Access modifiers 2, Datetime", "Access modifiers 2, Datetime\Access modifiers 2, Datetime.csproj", "{703FF462-907A-40CE-8A85-253A2D166C92}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Menu task", "Menu task\Menu task.csproj", "{403A40BC-FFF6-4108-AF98-64825711556B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Menutask2", "Menutask2\Menutask2.csproj", "{FD4E49F1-8279-4B60-84CA-95D5432420EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{703FF462-907A-40CE-8A85-253A2D166C92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{703FF462-907A-40CE-8A85-253A2D166C92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{703FF462-907A-40CE-8A85-253A2D166C92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{403A40BC-FFF6-4108-AF98-64825711556B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{403A40BC-FFF6-4108-AF98-64825711556B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{403A40BC-FFF6-4108-AF98-64825711556B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{403A40BC-FFF6-4108-AF98-64825711556B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD4E49F1-8279-4B60-84CA-95D5432420EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD4E49F1-8279-4B60-84CA-95D5432420EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD4E49F1-8279-4B60-84CA-95D5432420EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD4E49F1-8279-4B60-84CA-95D5432420EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
